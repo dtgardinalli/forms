@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    background-color: lightpink;
+    text-align: center;
+}
+
+h1{
+    color: rgb(173, 9, 9);
+    text-align: center;
+    font-size: 30pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
